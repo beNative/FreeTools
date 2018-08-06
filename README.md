@@ -20,6 +20,7 @@ Most of the applications are for the Windows platform, but for many you can find
 - [LibreOffice: Free office suite](https://www.libreoffice.org/)
 - [Audacity: Free, open source, cross-platform audio software](https://www.audacityteam.org/)
 - [Inkscape: Draw Freely](https://inkscape.org/nl/)
+- [fritzing: electronics prototyping tool](http://fritzing.org/home/)
 
 ## Media players
 - [AIMP: Music player](http://www.aimp.ru/)
