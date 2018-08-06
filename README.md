@@ -33,19 +33,19 @@ Most of the applications are for the Windows platform, but for many you can find
 ## Media players
 | | |
 |-|-|
-- [AIMP: Music player](http://www.aimp.ru/)
-- [DAUM Potplayer: multimedia player](https://potplayer.daum.net/)
-- [Foxit Reader: PDF Reader](https://www.foxitsoftware.com/pdf-reader/)
-- [XnView MP: Photo Viewer, Image Resizer & Batch Converter](https://www.xnview.com/en/)
+[AIMP: Music player](http://www.aimp.ru/)|
+[DAUM Potplayer: multimedia player](https://potplayer.daum.net/)|
+[Foxit Reader: PDF Reader](https://www.foxitsoftware.com/pdf-reader/)|
+[XnView MP: Photo Viewer, Image Resizer & Batch Converter](https://www.xnview.com/en/)|
 
 ## Media encoding/decoding and conversion
 | | |
 |-|-|
-- [PeaZip: free file archiver utility](http://www.peazip.org/)
-- [HandBrake: The open source video transcoder](https://handbrake.fr/)
-- [ImgBurn: a lightweight CD/DVD/HD DVD/Blu-ray burning application](http://www.imgburn.com/)
-- [LameXP: Audio Encoder Front-End](http://lamexp.sourceforge.net/)
-- [UPX: the Ultimate Packer for eXecutables](https://upx.github.io/)
+[PeaZip](http://www.peazip.org/)|Free file archiver utility
+[HandBrake](https://handbrake.fr/)|The open source video transcoder
+[ImgBurn](http://www.imgburn.com/)|A lightweight CD/DVD/HD DVD/Blu-ray burning application
+[LameXP](http://lamexp.sourceforge.net/)|Audio Encoder Front-End
+[UPX](https://upx.github.io/)|the Ultimate Packer for eXecutables
 
 ## Development
 | | |
