@@ -17,4 +17,6 @@ Links to my personal favourite free and open source applications.
 - [ConEmu: Windows terminal](https://conemu.github.io/)
 - [DOSBox: DOS-emulator](https://www.dosbox.com/)
 - [WinUAE Amiga emulator](http://www.winuae.net/)
-- [PuTTY: SSH and telnet client,](https://www.putty.org/)
+- [PuTTY: SSH and telnet client](https://www.putty.org/)
+- [Wireshark: network protocol analyzer](https://www.wireshark.org/)
+
