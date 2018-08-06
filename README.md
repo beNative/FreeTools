@@ -33,3 +33,4 @@ Links to my personal favourite free and open source applications.
 
 ## Development
 - [Lazarus: a Delphi compatible cross-platform IDE for Rapid Application Development](https://www.lazarus-ide.org/)
+- [Sloeber: Where Arduino meets Eclipse](http://eclipse.baeyens.it/)
