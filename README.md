@@ -4,8 +4,8 @@ Links to my personal favourite free and open source applications.
 Most of the applications are for the Windows platform, but for many you can find builds for other platforms too.
 
 ## System utilities
-- [Rapid Environment Editor](https://www.rapidee.com): Windows environment variables management
-- [Everything: Locate files and folders by name instantly.](https://www.voidtools.com/)
+- [Rapid Environment Editor](https://www.rapidee.com) | Windows environment variables management
+- [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly.
 - [Mouse Without Borders: control up to four computers from a single mouse and keyboard](https://www.microsoft.com/en-us/garage/profiles/mouse-without-borders/)
 - [ConEmu: Windows terminal](https://conemu.github.io/)
 - [PuTTY: SSH and telnet client](https://www.putty.org/)
