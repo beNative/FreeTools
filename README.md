@@ -17,7 +17,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Rename Master](http://www.joejoesoft.com/vcms/108/)|A freeware utility designed to rename multiple files with a just few clicks
 [Junction Link Magic](http://www.rekenwonder.com/linkmagic.htm)|Junction Link Magic lets you create and manage NTFS junction points in a fast and easy way 
 [API Monitor](http://www.rohitab.com/apimonitor)|A free software that lets you monitor and control API calls made by applications and services
-[]()|
+[SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/)|Find lost space on your disks using a Treemap visualization layout
 []()|
 []()|
 
