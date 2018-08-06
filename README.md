@@ -6,6 +6,7 @@ Links to my personal favourite free and open source applications.
 - [ConEmu: Windows terminal](https://conemu.github.io/)
 - [PuTTY: SSH and telnet client](https://www.putty.org/)
 - [Wireshark: network protocol analyzer](https://www.wireshark.org/)
+- [Double Commander: a free cross platform open source file manager with two panels side by side](https://doublecmd.sourceforge.io/)
 
 ## Emulators and simulators
 - [WinUAE Amiga emulator](http://www.winuae.net/)
