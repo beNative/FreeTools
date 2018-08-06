@@ -10,25 +10,25 @@ Most of the applications are for the Windows platform, but for many you can find
 [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly.
 [Mouse Without Borders](https://www.microsoft.com/en-us/garage/profiles/mouse-without-borders/) | Control up to four computers from a single mouse and keyboard
 [ConEmu](https://conemu.github.io/)|Windows terminal
-- [PuTTY: SSH and telnet client](https://www.putty.org/)
-- [Wireshark: network protocol analyzer](https://www.wireshark.org/)
-- [Double Commander: a free cross platform open source file manager with two panels side by side](https://doublecmd.sourceforge.io/)
+[PuTTY](https://www.putty.org/)|SSH and telnet client
+[Wireshark](https://www.wireshark.org/)|Network protocol analyzer
+[Double Commander](https://doublecmd.sourceforge.io/)|A free cross platform open source file manager with two panels side by side
 
 ## Emulators and simulators
 | | |
 |-|-|
-| [WinUAE](http://www.winuae.net/)| Amiga emulator
-- [DOSBox](https://www.dosbox.com/) | DOS-emulator
-- [VirtualBox: virtualization software for x86 and AMD64/Intel64](https://www.virtualbox.org/)
+[WinUAE](http://www.winuae.net/)|Amiga emulator
+[DOSBox](https://www.dosbox.com/)|DOS-emulator
+[VirtualBox](https://www.virtualbox.org/)|Virtualization software for x86 and AMD64/Intel64
 
 ## Editors
 | | |
 |-|-|
-- [MP3TAG: The universal tag editor](https://www.mp3tag.de/en/)
-- [LibreOffice: Free office suite](https://www.libreoffice.org/)
-- [Audacity: Free, open source, cross-platform audio software](https://www.audacityteam.org/)
-- [Inkscape: Draw Freely](https://inkscape.org/nl/)
-- [fritzing: electronics prototyping tool](http://fritzing.org/home/)
+[MP3TAG](https://www.mp3tag.de/en/)|The universal tag editor
+[LibreOffice](https://www.libreoffice.org/)|Free office suite
+[Audacity](https://www.audacityteam.org/)|Free, open source, cross-platform audio software
+[Inkscape](https://inkscape.org/nl/)|Draw Freely
+[fritzing](http://fritzing.org/home/)|Electronics prototyping tool
 
 ## Media players
 | | |
