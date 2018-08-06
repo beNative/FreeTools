@@ -70,5 +70,3 @@ Most of the applications are for the Windows platform, but for many you can find
 | | |
 |-|-|
 [SQLiteStudio](https://sqlitestudio.pl/index.rvt)|A SQLite database manager
-[]()|
-[]()|
