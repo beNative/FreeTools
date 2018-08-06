@@ -14,6 +14,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Wireshark](https://www.wireshark.org/)|Network protocol analyzer
 [Double Commander](https://doublecmd.sourceforge.io/)|A free cross platform open source file manager with two panels side by side
 [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)|System information software
+[Rename Master](http://www.joejoesoft.com/vcms/108/)|A freeware utility designed to rename multiple files with a just few clicks
 
 ## Emulators and simulators
 | | |
