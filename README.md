@@ -1,6 +1,11 @@
 # FreeTools
 Links to my personal favourite free and open source applications.
 
+ | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
+
 Most of the applications are for the Windows platform, but for many you can find builds for other platforms too.
 
 ## System utilities
