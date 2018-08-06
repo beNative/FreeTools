@@ -13,6 +13,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [PuTTY](https://www.putty.org/)|SSH and telnet client
 [Wireshark](https://www.wireshark.org/)|Network protocol analyzer
 [Double Commander](https://doublecmd.sourceforge.io/)|A free cross platform open source file manager with two panels side by side
+[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)|System information software
 
 ## Emulators and simulators
 | | |
