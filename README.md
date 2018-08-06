@@ -6,3 +6,4 @@ Links to my personal favourite free and open source applications.
 - [LameXP - Audio Encoder Front-End](http://lamexp.sourceforge.net/)
 - [MP3TAG: The universal tag editor](https://www.mp3tag.de/en/)
 - [AIMP: Music player](http://www.aimp.ru/)
+- [DAUM Potplayer: multimedia player](https://potplayer.daum.net/)
