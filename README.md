@@ -10,3 +10,4 @@ Links to my personal favourite free and open source applications.
 - [Everything: Locate files and folders by name instantly.](https://www.voidtools.com/)
 - [Audacity: Free, open source, cross-platform audio software](https://www.audacityteam.org/)
 - [XnView MP: Photo Viewer, Image Resizer & Batch Converter](https://www.xnview.com/en/)
+- [LibreOffice: Free office suite](https://www.libreoffice.org/)
