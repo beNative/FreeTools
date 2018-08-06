@@ -16,3 +16,5 @@ Links to my personal favourite free and open source applications.
 - [Mouse Without Borders: control up to four computers from a single mouse and keyboard](https://www.microsoft.com/en-us/garage/profiles/mouse-without-borders/)
 - [ConEmu: Windows terminal](https://conemu.github.io/)
 - [DOSBox: DOS-emulator](https://www.dosbox.com/)
+- [WinUAE Amiga emulator](http://www.winuae.net/)
+- [PuTTY: SSH and telnet client,](https://www.putty.org/)
