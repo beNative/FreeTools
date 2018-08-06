@@ -11,3 +11,4 @@ Links to my personal favourite free and open source applications.
 - [Audacity: Free, open source, cross-platform audio software](https://www.audacityteam.org/)
 - [XnView MP: Photo Viewer, Image Resizer & Batch Converter](https://www.xnview.com/en/)
 - [LibreOffice: Free office suite](https://www.libreoffice.org/)
+- [Foxit Reader: PDF Reader][https://www.foxitsoftware.com/pdf-reader/]
