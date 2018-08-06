@@ -30,3 +30,6 @@ Links to my personal favourite free and open source applications.
 - [ImgBurn: a lightweight CD/DVD/HD DVD/Blu-ray burning application](http://www.imgburn.com/)
 - [LameXP: Audio Encoder Front-End](http://lamexp.sourceforge.net/)
 - [UPX: the Ultimate Packer for eXecutables](https://upx.github.io/)
+
+## Development
+- [Lazarus: a Delphi compatible cross-platform IDE for Rapid Application Development](https://www.lazarus-ide.org/)
