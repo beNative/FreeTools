@@ -30,7 +30,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [WinUAE](http://www.winuae.net/)|Amiga emulator
 [DOSBox](https://www.dosbox.com/)|DOS-emulator
 [VirtualBox](https://www.virtualbox.org/)|Virtualization software for x86 and AMD64/Intel64
-[CloneVDI]()|
+[CloneVDI](https://forums.virtualbox.org/viewtopic.php?f=6&t=22422)|Virtual HD Clone and Optimize
 
 ## Editors
 | | |
