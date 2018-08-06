@@ -8,3 +8,4 @@ Links to my personal favourite free and open source applications.
 - [AIMP: Music player](http://www.aimp.ru/)
 - [DAUM Potplayer: multimedia player](https://potplayer.daum.net/)
 - [Everything: Locate files and folders by name instantly.](https://www.voidtools.com/)
+- [Audacity: Free, open source, cross-platform audio software](https://www.audacityteam.org/)
