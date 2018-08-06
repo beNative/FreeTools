@@ -24,12 +24,13 @@ Most of the applications are for the Windows platform, but for many you can find
 []()|
 []()|
 
-## Emulators and simulators
+## Emulators, simulators and virtualization software
 | | |
 |-|-|
 [WinUAE](http://www.winuae.net/)|Amiga emulator
 [DOSBox](https://www.dosbox.com/)|DOS-emulator
 [VirtualBox](https://www.virtualbox.org/)|Virtualization software for x86 and AMD64/Intel64
+[CloneVDI]()|
 
 ## Editors
 | | |
