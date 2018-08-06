@@ -17,6 +17,7 @@ Links to my personal favourite free and open source applications.
 - [MP3TAG: The universal tag editor](https://www.mp3tag.de/en/)
 - [LibreOffice: Free office suite](https://www.libreoffice.org/)
 - [Audacity: Free, open source, cross-platform audio software](https://www.audacityteam.org/)
+- [Inkscape: Draw Freely](https://inkscape.org/nl/)
 
 ## Media players
 - [AIMP: Music player](http://www.aimp.ru/)
