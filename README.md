@@ -1,12 +1,6 @@
 # FreeTools
 Links to my personal favourite free and open source applications.
 
-| | | |
-|-|-|-|
-| merged |
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
-
 Most of the applications are for the Windows platform, but for many you can find builds for other platforms too.
 
 ## System utilities
@@ -21,11 +15,15 @@ Most of the applications are for the Windows platform, but for many you can find
 - [Double Commander: a free cross platform open source file manager with two panels side by side](https://doublecmd.sourceforge.io/)
 
 ## Emulators and simulators
-- [WinUAE Amiga emulator](http://www.winuae.net/)
-- [DOSBox: DOS-emulator](https://www.dosbox.com/)
+| | |
+|-|-|
+| [WinUAE](http://www.winuae.net/)| Amiga emulator
+- [DOSBox](https://www.dosbox.com/) | DOS-emulator
 - [VirtualBox: virtualization software for x86 and AMD64/Intel64](https://www.virtualbox.org/)
 
 ## Editors
+| | |
+|-|-|
 - [MP3TAG: The universal tag editor](https://www.mp3tag.de/en/)
 - [LibreOffice: Free office suite](https://www.libreoffice.org/)
 - [Audacity: Free, open source, cross-platform audio software](https://www.audacityteam.org/)
@@ -33,12 +31,16 @@ Most of the applications are for the Windows platform, but for many you can find
 - [fritzing: electronics prototyping tool](http://fritzing.org/home/)
 
 ## Media players
+| | |
+|-|-|
 - [AIMP: Music player](http://www.aimp.ru/)
 - [DAUM Potplayer: multimedia player](https://potplayer.daum.net/)
 - [Foxit Reader: PDF Reader](https://www.foxitsoftware.com/pdf-reader/)
 - [XnView MP: Photo Viewer, Image Resizer & Batch Converter](https://www.xnview.com/en/)
 
 ## Media encoding/decoding and conversion
+| | |
+|-|-|
 - [PeaZip: free file archiver utility](http://www.peazip.org/)
 - [HandBrake: The open source video transcoder](https://handbrake.fr/)
 - [ImgBurn: a lightweight CD/DVD/HD DVD/Blu-ray burning application](http://www.imgburn.com/)
@@ -46,5 +48,7 @@ Most of the applications are for the Windows platform, but for many you can find
 - [UPX: the Ultimate Packer for eXecutables](https://upx.github.io/)
 
 ## Development
+| | |
+|-|-|
 - [Lazarus: a Delphi compatible cross-platform IDE for Rapid Application Development](https://www.lazarus-ide.org/)
 - [Sloeber: Where Arduino meets Eclipse](http://eclipse.baeyens.it/)
