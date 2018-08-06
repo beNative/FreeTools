@@ -8,8 +8,8 @@ Most of the applications are for the Windows platform, but for many you can find
 |-|-|
 [Rapid Environment Editor](https://www.rapidee.com) | Windows environment variables management
 [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly.
-[Mouse Without Borders: control up to four computers from a single mouse and keyboard](https://www.microsoft.com/en-us/garage/profiles/mouse-without-borders/)
-- [ConEmu: Windows terminal](https://conemu.github.io/)
+[Mouse Without Borders](https://www.microsoft.com/en-us/garage/profiles/mouse-without-borders/) | Control up to four computers from a single mouse and keyboard
+[ConEmu](https://conemu.github.io/)|Windows terminal
 - [PuTTY: SSH and telnet client](https://www.putty.org/)
 - [Wireshark: network protocol analyzer](https://www.wireshark.org/)
 - [Double Commander: a free cross platform open source file manager with two panels side by side](https://doublecmd.sourceforge.io/)
