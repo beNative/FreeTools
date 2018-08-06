@@ -63,6 +63,7 @@ Most of the applications are for the Windows platform, but for many you can find
 |-|-|
 [Lazarus](https://www.lazarus-ide.org/)|A Delphi compatible cross-platform IDE for Rapid Application Development
 [Sloeber](http://eclipse.baeyens.it/)|Where Arduino meets Eclipse
+[ZeroBrane Studio](https://studio.zerobrane.com/)|Lightweight IDE for your Lua needs
 
 ## Database
 | | |
