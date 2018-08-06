@@ -4,7 +4,7 @@ Links to my personal favourite free and open source applications.
 Most of the applications are for the Windows platform, but for many you can find builds for other platforms too.
 
 ## System utilities
-  System Utilities |
+  System Utilities | s
 ------------ | -------------
 [Rapid Environment Editor](https://www.rapidee.com) | Windows environment variables management
 [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly.
