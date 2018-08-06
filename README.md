@@ -62,3 +62,10 @@ Most of the applications are for the Windows platform, but for many you can find
 |-|-|
 [Lazarus](https://www.lazarus-ide.org/)|A Delphi compatible cross-platform IDE for Rapid Application Development
 [Sloeber](http://eclipse.baeyens.it/)|Where Arduino meets Eclipse
+
+## Database
+| | |
+|-|-|
+[SQLiteStudio](https://sqlitestudio.pl/index.rvt)|A SQLite database manager
+[]()|
+[]()|
