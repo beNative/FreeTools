@@ -18,7 +18,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Junction Link Magic](http://www.rekenwonder.com/linkmagic.htm)|Junction Link Magic lets you create and manage NTFS junction points in a fast and easy way 
 [API Monitor](http://www.rohitab.com/apimonitor)|A free software that lets you monitor and control API calls made by applications and services
 [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/)|Find lost space on your disks using a Treemap visualization layout
-[]()|
+[grepWin](https://tools.stefankueng.com/grepWin.html)|A simple search and replace tool which can use regular expressions to do its job
 []()|
 
 ## Emulators and simulators
