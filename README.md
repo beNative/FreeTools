@@ -22,7 +22,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Zadig](http://zadig.akeo.ie/)|USB driver installation made easy
 [ReNamer](http://www.den4b.com/news/2416/renamer-6-9)|A powerful and flexible file renaming tool
 [H2testw](http://www.heise.de/ct/Redaktion/bo/downloads/h2testw_1.4.zip)|Checks SD cards for errors
-[]()|
+[Rufus](http://rufus.akeo.ie/)|The Reliable USB Formatting Utility
 
 ## Emulators, simulators and virtualization software
 | | |
