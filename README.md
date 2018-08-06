@@ -13,3 +13,4 @@ Links to my personal favourite free and open source applications.
 - [LibreOffice: Free office suite](https://www.libreoffice.org/)
 - [Foxit Reader: PDF Reader](https://www.foxitsoftware.com/pdf-reader/)
 - [VirtualBox: virtualization software for x86 and AMD64/Intel64](https://www.virtualbox.org/)
+- [Mouse Without Borders: control up to four computers from a single mouse and keyboard](https://www.microsoft.com/en-us/garage/profiles/mouse-without-borders/)
