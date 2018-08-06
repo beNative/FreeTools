@@ -21,7 +21,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [grepWin](https://tools.stefankueng.com/grepWin.html)|A simple search and replace tool which can use regular expressions to do its job
 [Zadig](http://zadig.akeo.ie/)|USB driver installation made easy
 [ReNamer](http://www.den4b.com/news/2416/renamer-6-9)|A powerful and flexible file renaming tool
-[]()|
+[H2testw](http://www.heise.de/ct/Redaktion/bo/downloads/h2testw_1.4.zip)|Checks SD cards for errors
 []()|
 
 ## Emulators, simulators and virtualization software
