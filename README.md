@@ -33,10 +33,10 @@ Most of the applications are for the Windows platform, but for many you can find
 ## Media players
 | | |
 |-|-|
-[AIMP: Music player](http://www.aimp.ru/)|
-[DAUM Potplayer: multimedia player](https://potplayer.daum.net/)|
-[Foxit Reader: PDF Reader](https://www.foxitsoftware.com/pdf-reader/)|
-[XnView MP: Photo Viewer, Image Resizer & Batch Converter](https://www.xnview.com/en/)|
+[AIMP](http://www.aimp.ru/)|Music player
+[DAUM Potplayer](https://potplayer.daum.net/)|Multimedia player
+[Foxit Reader](https://www.foxitsoftware.com/pdf-reader/)|PDF Reader
+[XnView MP](https://www.xnview.com/en/)|Photo Viewer, Image Resizer & Batch Converter
 
 ## Media encoding/decoding and conversion
 | | |
@@ -50,5 +50,5 @@ Most of the applications are for the Windows platform, but for many you can find
 ## Development
 | | |
 |-|-|
-- [Lazarus: a Delphi compatible cross-platform IDE for Rapid Application Development](https://www.lazarus-ide.org/)
-- [Sloeber: Where Arduino meets Eclipse](http://eclipse.baeyens.it/)
+[Lazarus](https://www.lazarus-ide.org/)|A Delphi compatible cross-platform IDE for Rapid Application Development
+[Sloeber](http://eclipse.baeyens.it/)|Where Arduino meets Eclipse
