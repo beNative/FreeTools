@@ -1,5 +1,5 @@
 # FreeTools
-Links to my personal favourite free and open source applications.
+A collection of links to my personal favourite free and open source applications.
 
 Most of the applications are for the Windows platform, but for many you can find builds for other platforms too.
 
