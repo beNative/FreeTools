@@ -53,6 +53,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Audacity](https://www.audacityteam.org/)|Free, open source, cross-platform audio software
 [Inkscape](https://inkscape.org/nl/)|Draw Freely
 [fritzing](http://fritzing.org/home/)|Electronics prototyping tool
+[GIMP](https://www.gimp.org/)|The Free & Open Source Image Editor
 
 ## Media players
 | | |
