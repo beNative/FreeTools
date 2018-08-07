@@ -23,7 +23,6 @@ Most of the applications are for the Windows platform, but for many you can find
 [ReNamer](http://www.den4b.com/news/2416/renamer-6-9)|A powerful and flexible file renaming tool
 [H2testw](http://www.heise.de/ct/Redaktion/bo/downloads/h2testw_1.4.zip)|Checks SD cards for errors
 [Rufus](http://rufus.akeo.ie/)|The Reliable USB Formatting Utility
-[Rufus](http://rufus.akeo.ie/)|The Reliable USB Formatting Utility
 [WinPcap](https://www.winpcap.org/)|The industry-standard tool for link-layer network access in Windows environments
 
 ## Emulators, simulators and virtualization software
