@@ -7,22 +7,34 @@ Most of the applications are for the Windows platform, but for many you can find
 | | |
 |-|-|
 [Rapid Environment Editor](https://www.rapidee.com) | Windows environment variables management
-[Everything](https://www.voidtools.com/) | Locate files and folders by name instantly.
 [Mouse Without Borders](https://www.microsoft.com/en-us/garage/profiles/mouse-without-borders/) | Control up to four computers from a single mouse and keyboard
 [ConEmu](https://conemu.github.io/)|Windows terminal
-[PuTTY](https://www.putty.org/)|SSH and telnet client
-[Wireshark](https://www.wireshark.org/)|Network protocol analyzer
-[Double Commander](https://doublecmd.sourceforge.io/)|A free cross platform open source file manager with two panels side by side
+
+### Diagnostic tools
+| | |
+|-|-|
 [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)|System information software
-[Rename Master](http://www.joejoesoft.com/vcms/108/)|A freeware utility designed to rename multiple files with a just few clicks
-[Junction Link Magic](http://www.rekenwonder.com/linkmagic.htm)|Junction Link Magic lets you create and manage NTFS junction points in a fast and easy way 
 [API Monitor](http://www.rohitab.com/apimonitor)|A free software that lets you monitor and control API calls made by applications and services
 [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/)|Find lost space on your disks using a Treemap visualization layout
-[grepWin](https://tools.stefankueng.com/grepWin.html)|A simple search and replace tool which can use regular expressions to do its job
 [Zadig](http://zadig.akeo.ie/)|USB driver installation made easy
-[ReNamer](http://www.den4b.com/news/2416/renamer-6-9)|A powerful and flexible file renaming tool
 [H2testw](http://www.heise.de/ct/Redaktion/bo/downloads/h2testw_1.4.zip)|Checks SD cards for errors
 [Rufus](http://rufus.akeo.ie/)|The Reliable USB Formatting Utility
+
+### File management tools
+| | |
+|-|-|
+[Everything](https://www.voidtools.com/) | Locate files and folders by name instantly.
+[ReNamer](http://www.den4b.com/news/2416/renamer-6-9)|A powerful and flexible file renaming tool
+[Rename Master](http://www.joejoesoft.com/vcms/108/)|A freeware utility designed to rename multiple files with a just few clicks
+[grepWin](https://tools.stefankueng.com/grepWin.html)|A simple search and replace tool which can use regular expressions to do its job
+[Double Commander](https://doublecmd.sourceforge.io/)|A free cross platform open source file manager with two panels side by side
+[Junction Link Magic](http://www.rekenwonder.com/linkmagic.htm)|Junction Link Magic lets you create and manage NTFS junction points in a fast and easy way 
+
+### Internet and networking tools
+| | |
+|-|-|
+[PuTTY](https://www.putty.org/)|SSH and telnet client
+[Wireshark](https://www.wireshark.org/)|Network protocol analyzer
 [WinPcap](https://www.winpcap.org/)|The industry-standard tool for link-layer network access in Windows environments
 
 ## Emulators, simulators and virtualization software
