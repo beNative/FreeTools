@@ -79,8 +79,9 @@ Most of the applications are for the Windows platform, but for many you can find
 [Lazarus](https://www.lazarus-ide.org/)|A Delphi compatible cross-platform IDE for Rapid Application Development
 [Sloeber](http://eclipse.baeyens.it/)|Where Arduino meets Eclipse
 [ZeroBrane Studio](https://studio.zerobrane.com/)|Lightweight IDE for your Lua needs
-[ILSpy](http://www.ilspy.net/)|The open-source .NET assembly browser and decompiler
+[ILSpy](http://www.ilspy.net/)|The open source .NET assembly browser and decompiler
 [Eclipse](https://www.eclipse.org/downloads/)|A mature, scalable and commercially-friendly environment for open source software collaboration and innovation
+[OpenTx](https://www.open-tx.org/)|Open source firmware for RC radio transmitters
 
 ## Database
 | | |
