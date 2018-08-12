@@ -23,7 +23,7 @@ Most of the applications are for the Windows platform, but for many you can find
 ### File management tools
 | | |
 |-|-|
-[Everything](https://www.voidtools.com/) | Locate files and folders by name instantly.
+[Everything](https://www.voidtools.com/) | Locate files and folders by name instantly
 [ReNamer](http://www.den4b.com/news/2416/renamer-6-9)|A powerful and flexible file renaming tool
 [Rename Master](http://www.joejoesoft.com/vcms/108/)|A freeware utility designed to rename multiple files with a just few clicks
 [grepWin](https://tools.stefankueng.com/grepWin.html)|A simple search and replace tool which can use regular expressions to do its job
