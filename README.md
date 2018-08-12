@@ -54,7 +54,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Inkscape](https://inkscape.org/nl/)|Draw Freely
 [fritzing](http://fritzing.org/home/)|Electronics prototyping tool
 [GIMP](https://www.gimp.org/)|The Free & Open Source Image Editor
-[Resource Editor](http://melander.dk/reseditor/)Editor for RES files with a heavy bias toward the resource types commonly used by Delphi developers, but all common resource file formats and resource types are supported.
+[Resource Editor](http://melander.dk/reseditor/)|Editor for RES files with a heavy bias toward the resource types commonly used by Delphi developers, but all common resource file formats and resource types are supported.
 
 ## Media players
 | | |
