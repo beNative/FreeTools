@@ -62,7 +62,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [DAUM Potplayer](https://potplayer.daum.net/)|Multimedia player
 [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/)|PDF Reader
 [XnView MP](https://www.xnview.com/en/)|Photo Viewer, Image Resizer & Batch Converter
-[Kodi](https://kodi.tv/)|Mediacenter software
+[Kodi](https://kodi.tv/)|Open Source Mediacenter
 
 ## Media encoding/decoding and conversion
 | | |
