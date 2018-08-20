@@ -19,6 +19,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Zadig](http://zadig.akeo.ie/)|USB driver installation made easy
 [H2testw](http://www.heise.de/ct/Redaktion/bo/downloads/h2testw_1.4.zip)|Checks SD cards for errors
 [Rufus](http://rufus.akeo.ie/)|The Reliable USB Formatting Utility
+[Process Hacker](https://processhacker.sourceforge.io/)|A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
 
 ### File management tools
 | | |
