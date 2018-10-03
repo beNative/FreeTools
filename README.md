@@ -75,6 +75,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [ImgBurn](http://www.imgburn.com/)|A lightweight CD/DVD/HD DVD/Blu-ray burning application
 [LameXP](http://lamexp.sourceforge.net/)|Audio Encoder Front-End
 [UPX](https://upx.github.io/)|the Ultimate Packer for eXecutables
+[Subtle](https://github.com/tvdburgt/subtle)|Desktop client for opensubtitles API
 
 ## Development
 | | |
