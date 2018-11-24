@@ -57,6 +57,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [GIMP](https://www.gimp.org/)|The Free & Open Source Image Editor
 [Resource Editor](http://melander.dk/reseditor/)|Editor for RES files with a heavy bias toward the resource types commonly used by Delphi developers, but all common resource file formats and resource types are supported.
 [Resource Hacker](http://www.angusj.com/resourcehacker/)|Resource Hacker is a resource editor, compiler and decompiler for 32bit and 64bit Windows applications. 
+[Visual Studio Code](https://code.visualstudio.com/)|Extendable multiplatform code editor.
 
 ## Media players
 | | |
