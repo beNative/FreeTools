@@ -30,6 +30,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [grepWin](https://tools.stefankueng.com/grepWin.html)|A simple search and replace tool which can use regular expressions to do its job
 [Double Commander](https://doublecmd.sourceforge.io/)|A free cross platform open source file manager with two panels side by side
 [Junction Link Magic](http://www.rekenwonder.com/linkmagic.htm)|Junction Link Magic lets you create and manage NTFS junction points in a fast and easy way 
+[SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/download.html)|Find lost space on your disks the easy way.
 
 ### Internet and networking tools
 | | |
