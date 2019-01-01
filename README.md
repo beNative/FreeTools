@@ -93,3 +93,8 @@ Most of the applications are for the Windows platform, but for many you can find
 |-|-|
 [SQLiteStudio](https://sqlitestudio.pl/index.rvt)|A SQLite database manager
 [SqlDbx Personal Edition](http://www.sqldbx.com/)|A fast and easy to use database SQL development IDE.
+
+## Audio
+| | |
+|-|-|
+[VCV Rack](https://vcvrack.com/)|Open-source virtual modular synthesizer.
