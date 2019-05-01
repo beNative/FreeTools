@@ -60,6 +60,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Resource Hacker](http://www.angusj.com/resourcehacker/)|Resource Hacker is a resource editor, compiler and decompiler for 32bit and 64bit Windows applications. 
 [Visual Studio Code](https://code.visualstudio.com/)|Extendable multiplatform code editor.
 [Quick Sequence Diagram Editor](http://sdedit.sourceforge.net/index.html)|Quick Sequence Diagram Editor is a tool for creating UML sequence diagrams from textual descriptions of objects and messages that follow a very easy syntax. 
+[yEd](https://www.yworks.com/products/yed)|A powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 
 ## Media players
 | | |
