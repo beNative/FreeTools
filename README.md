@@ -78,6 +78,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [LameXP](http://lamexp.sourceforge.net/)|Audio Encoder Front-End.
 [UPX](https://upx.github.io/)|the Ultimate Packer for eXecutables.
 [Subtle](https://github.com/tvdburgt/subtle)|Desktop client for opensubtitles API.
+[ImageMagick](https://imagemagick.org/)|Use ImageMagick to create, edit, compose, or convert bitmap images
 
 ## Development
 | | |
