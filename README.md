@@ -104,3 +104,4 @@ Most of the applications are for the Windows platform, but for many you can find
 [Friture](http://friture.org/)|An open source real-time audio analyzer.
 [Audacity](https://www.audacityteam.org/)|Free, open source, cross-platform audio software.
 [Sonic Visualiser](https://www.sonicvisualiser.org/)|An open source application for viewing and analysing the contents of music audio files.
+[VoiceMeeter Potato](https://www.vb-audio.com/Voicemeeter/potato.htm)|An audio mixer application endowed with a virtual audio device to mix and manage any audio sources from or to any audio devices or applications.
