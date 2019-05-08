@@ -103,3 +103,4 @@ Most of the applications are for the Windows platform, but for many you can find
 [ASIO4ALL](http://www.asio4all.org/)|Universal ASIO Driver For WDM Audio.
 [Friture](http://friture.org/)|An open source real-time audio analyzer.
 [Audacity](https://www.audacityteam.org/)|Free, open source, cross-platform audio software.
+[Sonic Visualiser](https://www.sonicvisualiser.org/)An open source application for viewing and analysing the contents of music audio files.
