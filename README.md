@@ -60,6 +60,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Visual Studio Code](https://code.visualstudio.com/)|Extendable multiplatform code editor.
 [Quick Sequence Diagram Editor](http://sdedit.sourceforge.net/index.html)|Quick Sequence Diagram Editor is a tool for creating UML sequence diagrams from textual descriptions of objects and messages that follow a very easy syntax. 
 [yEd Graph Editor](https://www.yworks.com/products/yed/download#download)|A powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+[Blender](https://www.blender.org/)|The free and open source 3D creation suite.
 
 ## Media players
 | | |
