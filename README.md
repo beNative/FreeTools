@@ -9,6 +9,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Rapid Environment Editor](https://www.rapidee.com)|Windows environment variables management.
 [Mouse Without Borders](https://www.microsoft.com/en-us/garage/profiles/mouse-without-borders/)|Control up to four computers from a single mouse and keyboard.
 [ConEmu](https://conemu.github.io/)|Windows terminal emulator.
+[Winaero](https://winaero.com/)|Free, small and useful software for Windows.
 
 ### Diagnostic tools
 | | |
