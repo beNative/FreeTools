@@ -71,11 +71,13 @@ Most of the applications are for the Windows platform, but for many you can find
 [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/)|PDF Reader.
 [XnView MP](https://www.xnview.com/en/)|Photo Viewer, Image Resizer & Batch Converter.
 [Kodi](https://kodi.tv/)|Open Source Mediacenter.
+
 ## Media encoding/decoding and conversion
 | | |
 |-|-|
 [PeaZip](http://www.peazip.org/)|Free file archiver utility.
 [HandBrake](https://handbrake.fr/)|The open source video transcoder.
+[MKVToolNix](https://mkvtoolnix.download/)|A set of tools to create, alter and inspect Matroska files.
 [ImgBurn](http://www.imgburn.com/)|A lightweight CD/DVD/HD DVD/Blu-ray burning application.
 [LameXP](http://lamexp.sourceforge.net/)|Audio Encoder Front-End.
 [UPX](https://upx.github.io/)|the Ultimate Packer for eXecutables.
