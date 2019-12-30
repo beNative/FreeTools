@@ -49,7 +49,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [DOSBox](https://www.dosbox.com/)|DOS-emulator.
 [VirtualBox](https://www.virtualbox.org/)|Virtualization software for x86 and AMD64/Intel64.
 [CloneVDI](https://forums.virtualbox.org/viewtopic.php?f=6&t=22422)|Virtual HD Clone and Optimize.
-
+[RetroArch](https://www.retroarch.com/)|A frontend for emulators, game engines and media players.
 
 ## Editors
 | | |
