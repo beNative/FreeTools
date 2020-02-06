@@ -21,6 +21,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [H2testw](http://www.heise.de/ct/Redaktion/bo/downloads/h2testw_1.4.zip)|Checks SD cards for errors
 [Rufus](http://rufus.akeo.ie/)|The Reliable USB Formatting Utility
 [Process Hacker](https://processhacker.sourceforge.io/)|A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
+[QModMaster](https://sourceforge.net/projects/qmodmaster/)|QModMaster is an implementation of a ModBus master application. A graphical user interface allows easy communication with ModBus RTU and TCP slaves. QModMaster also includes a bus monitor for examining all traffic on the bus.
 
 ### File management tools
 | | |
