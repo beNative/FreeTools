@@ -41,13 +41,13 @@ Most of the applications are for the Windows platform, but for many you can find
 [Wireshark](https://www.wireshark.org/)|Network protocol analyzer.
 [WinPcap](https://www.winpcap.org/)|The industry-standard tool for link-layer network access in Windows environments.
 [P.SEN](http://ancestorsoftware.co.nf/?page_id=14)|A free and open source TCP/UDP Network Test Utility for Windows and Linux.
-[FileZilla](https://filezilla-project.org/)|FileZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.
+[FileZilla](https://filezilla-project.org/)|A fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.
 
 ## Emulators, simulators and virtualization software
 | | |
 |-|-|
 [WinUAE](http://www.winuae.net/)|Amiga emulator.
-[VICE](http://vice-emu.sourceforge.net/)|the VersatIle Commodore Emulator.
+[VICE](http://vice-emu.sourceforge.net/)|The VersatIle Commodore Emulator.
 [blueMSX](http://www.bluemsx.com/)|Emulator for the MSX platform.
 [fMSX](https://fms.komkon.org/fMSX/)|Portable MSX emulator.
 [DOSBox](https://www.dosbox.com/)|DOS-emulator.
@@ -95,7 +95,6 @@ Most of the applications are for the Windows platform, but for many you can find
 | | |
 |-|-|
 [Lazarus](https://www.lazarus-ide.org/)|A Delphi compatible cross-platform IDE for Rapid Application Development.
-[Sloeber](http://eclipse.baeyens.it/)|Where Arduino meets Eclipse.
 [ZeroBrane Studio](https://studio.zerobrane.com/)|Lightweight IDE for your Lua needs.
 [ILSpy](http://www.ilspy.net/)|The open source .NET assembly browser and decompiler.
 [Eclipse](https://www.eclipse.org/downloads/)|A mature, scalable and commercially-friendly environment for open source software collaboration and innovation.
