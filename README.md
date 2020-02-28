@@ -47,8 +47,9 @@ Most of the applications are for the Windows platform, but for many you can find
 | | |
 |-|-|
 [WinUAE](http://www.winuae.net/)|Amiga emulator.
-[VICE](http://vice-emu.sourceforge.net/)|the Versatile Commodore Emulator.
+[VICE](http://vice-emu.sourceforge.net/)|the VersatIle Commodore Emulator.
 [blueMSX](http://www.bluemsx.com/)|Emulator for the MSX platform.
+[fMSX](https://fms.komkon.org/fMSX/)|Portable MSX emulator.
 [DOSBox](https://www.dosbox.com/)|DOS-emulator.
 [VirtualBox](https://www.virtualbox.org/)|Virtualization software for x86 and AMD64/Intel64.
 [CloneVDI](https://forums.virtualbox.org/viewtopic.php?f=6&t=22422)|Virtual HD Clone and Optimize.
