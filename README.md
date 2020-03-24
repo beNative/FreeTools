@@ -55,6 +55,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [VirtualBox](https://www.virtualbox.org/)|Virtualization software for x86 and AMD64/Intel64.
 [CloneVDI](https://forums.virtualbox.org/viewtopic.php?f=6&t=22422)|Virtual HD Clone and Optimize.
 [RetroArch](https://www.retroarch.com/)|A frontend for emulators, game engines and media players.
+[EmulationStation](https://emulationstation.org/)|A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard.
 
 ## Editors
 | | |
