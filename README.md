@@ -12,7 +12,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Winaero Tweaker](https://winaero.com/comment.php?comment.news.1836)|Universal tweaker software which supports Windows 7, Windows 8, Windows 8.1 and Windows 10.
 [Rufus](https://rufus.ie/)|A utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. 
 
-### Diagnostic tools
+## Diagnostic tools
 | | |
 |-|-|
 [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)|System information software.
@@ -24,7 +24,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Process Hacker](https://processhacker.sourceforge.io/)|A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
 [QModMaster](https://sourceforge.net/projects/qmodmaster/)|QModMaster is an implementation of a ModBus master application. A graphical user interface allows easy communication with ModBus RTU and TCP slaves. QModMaster also includes a bus monitor for examining all traffic on the bus.
 
-### File management tools
+## File management tools
 | | |
 |-|-|
 [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly.
@@ -34,7 +34,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Double Commander](https://doublecmd.sourceforge.io/)|A free cross platform open source file manager with two panels side by side.
 [Junction Link Magic](http://www.rekenwonder.com/linkmagic.htm)|Junction Link Magic lets you create and manage NTFS junction points in a fast and easy way.
 
-### Internet and networking tools
+## Internet and networking tools
 | | |
 |-|-|
 [PuTTY](https://www.putty.org/)|SSH and telnet client.
@@ -119,3 +119,6 @@ Most of the applications are for the Windows platform, but for many you can find
 [VoiceMeeter Potato](https://www.vb-audio.com/Voicemeeter/potato.htm)|An audio mixer application endowed with a virtual audio device to mix and manage any audio sources from or to any audio devices or applications.
 [MIDI-OX](http://www.midiox.com/app.htm)|A fully featured all-purpose MIDI utility.
 [MIDI Yoke Junction](http://www.midiox.com/myoke.htm)|A MIDI Patch Cable driver.
+
+## Learning tools
+[Teach2000](https://www.teach.nl/index.php)|A private teacher to help you memorize a foreign language, topography or even the history of Italy by date.
