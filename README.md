@@ -121,4 +121,6 @@ Most of the applications are for the Windows platform, but for many you can find
 [MIDI Yoke Junction](http://www.midiox.com/myoke.htm)|A MIDI Patch Cable driver.
 
 ## Learning tools
+| | |
+|-|-|
 [Teach2000](https://www.teach.nl/index.php)|A private teacher to help you memorize a foreign language, topography or even the history of Italy by date.
