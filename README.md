@@ -24,6 +24,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Rufus](http://rufus.akeo.ie/)|The Reliable USB-drive Formatting Utility
 [Process Hacker](https://processhacker.sourceforge.io/)|A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
 [QModMaster](https://sourceforge.net/projects/qmodmaster/)|QModMaster is an implementation of a ModBus master application. A graphical user interface allows easy communication with ModBus RTU and TCP slaves. QModMaster also includes a bus monitor for examining all traffic on the bus.
+[Open Hardware Monitor](https://openhardwaremonitor.org/)|The Open Hardware Monitor is a free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.
 
 ## File management tools
 | | |
