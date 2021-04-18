@@ -18,8 +18,9 @@ Most of the applications are for the Windows platform, but for many you can find
 ## Database
 | | |
 |-|-|
-[SQLiteStudio](https://sqlitestudio.pl/index.rvt)|A SQLite database manager
+[SQLiteStudio](https://sqlitestudio.pl/index.rvt)|A SQLite database manager.
 [SqlDbx Personal Edition](http://www.sqldbx.com/)|A fast and easy to use database SQL development IDE.
+[DataGrabber](https://github.com/beNative/DataGrabber)|A query tool.
 
 ## Development
 | | |
@@ -58,6 +59,8 @@ Most of the applications are for the Windows platform, but for many you can find
 [Quick Sequence Diagram Editor](http://sdedit.sourceforge.net/index.html)|Quick Sequence Diagram Editor is a tool for creating UML sequence diagrams from textual descriptions of objects and messages that follow a very easy syntax. 
 [yEd Graph Editor](https://www.yworks.com/products/yed/download#download)|A powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 [Blender](https://www.blender.org/)|The free and open source 3D creation suite.
+[Notepas](https://github.com/beNative/Notepas)|A portable multi-platform text editor. 
+[SnippetSource)(https://github.com/beNative/SnippetSource)|SnippetSource lets you organise your favorite pieces of code, scripts, thoughts, notes or other documents in a user definable tree structure. 
 
 ## Emulators, simulators and virtualization software
 | | |
