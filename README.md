@@ -31,6 +31,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Eclipse](https://www.eclipse.org/downloads/)|A mature, scalable and commercially-friendly environment for open source software collaboration and innovation.
 [OpenTx](https://www.open-tx.org/)|Open source firmware for RC radio transmitters.
 [Thonny](https://thonny.org/)|Python IDE for beginners
+[LogViewer](https://github.com/beNative/LogViewer)|A multi-purpose logviewer.
 
 ## Diagnostic tools
 | | |
