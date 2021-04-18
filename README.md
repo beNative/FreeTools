@@ -1,5 +1,5 @@
 # FreeTools
-A collection of links to free and open source applications maintained for personal reference.
+A collection of links to **free** and **open source** applications maintained for personal reference.
 
 Most of the applications are for the Windows platform, but for many you can find builds for other platforms too.
 
