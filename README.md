@@ -62,7 +62,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [yEd Graph Editor](https://www.yworks.com/products/yed/download#download)|A powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 [Blender](https://www.blender.org/)|The free and open source 3D creation suite.
 [Notepas](https://github.com/beNative/Notepas)|A portable multi-platform text editor. 
-[SnippetSource)(https://github.com/beNative/SnippetSource)|SnippetSource lets you organise your favorite pieces of code, scripts, thoughts, notes or other documents in a user definable tree structure. 
+[SnippetSource](https://github.com/beNative/SnippetSource)|SnippetSource lets you organise your favorite pieces of code, scripts, thoughts, notes or other documents in a user definable tree structure. 
 
 ## Emulators, simulators and virtualization software
 | | |
