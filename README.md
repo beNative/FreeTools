@@ -26,7 +26,7 @@ Most of the applications are for the Windows platform, but for many you can find
 | | |
 |-|-|
 [Lazarus](https://www.lazarus-ide.org/)|A Delphi compatible cross-platform IDE for Rapid Application Development.
-[Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)|A complete suite (IDE, compiler, programming language, resource editor) intended for developing games/demos for 8 / 16-bit line of computers, with a focus on the MOS 6502, the Motorola 68000, the (GB)Z80 and the X86. The language resembles that of Turbo Pascal.
+[Turbo Rascal Syntax Error (TRSE)](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)|A complete suite (IDE, compiler, programming language, resource editor) intended for developing games/demos for 8 / 16-bit line of computers, with a focus on the MOS 6502, the Motorola 68000, the (GB)Z80 and the X86. The language resembles that of Turbo Pascal.
 [ZeroBrane Studio](https://studio.zerobrane.com/)|Lightweight IDE for your Lua needs.
 [ILSpy](http://www.ilspy.net/)|The open source .NET assembly browser and decompiler.
 [Eclipse](https://www.eclipse.org/downloads/)|A mature, scalable and commercially-friendly environment for open source software collaboration and innovation.
