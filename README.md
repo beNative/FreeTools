@@ -83,6 +83,11 @@ Most of the applications are for the Windows platform, but for many you can find
 [Vagrant](https://www.vagrantup.com/downloads)|Vagrant is a tool for building and managing virtual machine environments in a single workflow. 
 [CloneVDI](https://forums.virtualbox.org/viewtopic.php?f=6&t=22422)|Virtual HD Clone and Optimize.
 
+## Automation tools
+| | |
+|-|-|
+[Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html?extIdCarryOver=true&sc_cid=701f2000001OH7YAAW#selecting-an-ansible-artifact-and-version-to-install)Configuration management tool
+
 ## File management tools
 | | |
 |-|-|
