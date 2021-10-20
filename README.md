@@ -86,7 +86,7 @@ Most of the applications are for the Windows platform, but for many you can find
 ## Automation tools
 | | |
 |-|-|
-[Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html?extIdCarryOver=true&sc_cid=701f2000001OH7YAAW#selecting-an-ansible-artifact-and-version-to-install)Configuration management tool
+[Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html?extIdCarryOver=true&sc_cid=701f2000001OH7YAAW#selecting-an-ansible-artifact-and-version-to-install)|Configuration management tool.
 
 ## File management tools
 | | |
