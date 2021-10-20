@@ -131,6 +131,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Rapid Environment Editor](https://www.rapidee.com)|Windows environment variables management.
 [Mouse Without Borders](https://www.microsoft.com/en-us/garage/profiles/mouse-without-borders/)|Control up to four computers from a single mouse and keyboard.
 [ConEmu](https://conemu.github.io/)|Windows terminal emulator.
+[Windows Terminal](https://github.com/microsoft/terminal/releases)|Windows Terminal is a new, modern, feature-rich, productive terminal application for command-line users.
 [Winaero Tweaker](https://winaero.com/comment.php?comment.news.1836)|Universal tweaker software which supports Windows 7, Windows 8, Windows 8.1 and Windows 10.
 [Rufus](https://rufus.ie/)|A utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. 
 [PowerToys](https://github.com/microsoft/PowerToys)|Windows system utilities to maximize productivity.
