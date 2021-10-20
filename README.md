@@ -64,7 +64,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Notepas](https://github.com/beNative/Notepas)|A portable multi-platform text editor. 
 [SnippetSource](https://github.com/beNative/SnippetSource)|SnippetSource lets you organise your favorite pieces of code, scripts, thoughts, notes or other documents in a user definable tree structure. 
 
-## Emulators, simulators and virtualization software
+## Emulators and simulators
 | | |
 |-|-|
 [WinUAE](http://www.winuae.net/)|Amiga emulator.
@@ -73,11 +73,15 @@ Most of the applications are for the Windows platform, but for many you can find
 [fMSX](https://fms.komkon.org/fMSX/)|Portable MSX emulator.
 [Speccy](https://fms.komkon.org/Speccy/)|Portable Spectrum emulator.
 [DOSBox](https://www.dosbox.com/)|DOS-emulator.
+[RetroArch](https://www.retroarch.com/)|A frontend for emulators, game engines and media players.
+[EmulationStation](https://emulationstation.org/)|A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard.
+
+## Virtualization software
+| | |
+|-|-|
 [VirtualBox](https://www.virtualbox.org/)|Virtualization software for x86 and AMD64/Intel64.
 [Vagrant](https://www.vagrantup.com/downloads)|Vagrant is a tool for building and managing virtual machine environments in a single workflow. 
 [CloneVDI](https://forums.virtualbox.org/viewtopic.php?f=6&t=22422)|Virtual HD Clone and Optimize.
-[RetroArch](https://www.retroarch.com/)|A frontend for emulators, game engines and media players.
-[EmulationStation](https://emulationstation.org/)|A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard.
 
 ## File management tools
 | | |
