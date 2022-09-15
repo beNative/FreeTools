@@ -65,7 +65,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Notepas](https://github.com/beNative/Notepas)|A portable multi-platform text editor. 
 [SnippetSource](https://github.com/beNative/SnippetSource)|SnippetSource lets you organise your favorite pieces of code, scripts, thoughts, notes or other documents in a user definable tree structure. 
 [QElectroTech](https://qelectrotech.org/index.html)|QElectroTech is a free software to create electric diagrams.
-[Xournal++](https://xournalpp.github.io/)|Create handwritten notes and edit PDF files. 
+[Xournal++](https://github.com/xournalpp/xournalpp/releases)|Create handwritten notes and edit PDF files. 
 
 ## Emulators and simulators
 | | |
