@@ -100,6 +100,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [grepWin](https://tools.stefankueng.com/grepWin.html)|A simple search and replace tool which can use regular expressions to do its job.
 [Double Commander](https://doublecmd.sourceforge.io/)|A free cross platform open source file manager with two panels side by side.
 [Junction Link Magic](http://www.rekenwonder.com/linkmagic.htm)|Junction Link Magic lets you create and manage NTFS junction points in a fast and easy way.
+[Win32 Disk Imager](https://win32diskimager.org/)|Write a raw disk image to any Removable Device.
 
 ## Internet and networking tools
 | | |
