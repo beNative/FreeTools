@@ -122,14 +122,14 @@ Most of the applications are for the Windows platform, but for many you can find
 | | |
 |-|-|
 [PeaZip](http://www.peazip.org/)|Free file archiver utility.
-[HandBrake](https://handbrake.fr/)|The open source video transcoder.
-[MKVToolNix](https://mkvtoolnix.download/)|A set of tools to create, alter and inspect Matroska files.
+[HandBrake](http://handbrake.fr/)|The open source video transcoder.
+[MKVToolNix](http://mkvtoolnix.download/)|A set of tools to create, alter and inspect Matroska files.
 [ImgBurn](http://www.imgburn.com/)|A lightweight CD/DVD/HD DVD/Blu-ray burning application.
 [LameXP](http://lamexp.sourceforge.net/)|Audio Encoder Front-End.
-[UPX](https://upx.github.io/)|the Ultimate Packer for eXecutables.
-[Subtle](https://github.com/tvdburgt/subtle)|Desktop client for opensubtitles API.
-[ImageMagick](https://imagemagick.org/)|Use ImageMagick to create, edit, compose, or convert bitmap images.
-[Upscayl](http://github.com/upscayl|Upscayl lets you upscale your low resolution images using advanced AI Models.
+[UPX](http://upx.github.io/)|the Ultimate Packer for eXecutables.
+[Subtle](http://github.com/tvdburgt/subtle)|Desktop client for opensubtitles API.
+[ImageMagick](http://imagemagick.org/)|Use ImageMagick to create, edit, compose, or convert bitmap images.
+[Upscayl](http://github.com/upscayl)|Upscayl lets you upscale your low resolution images using advanced AI Models.
 
 ## Media players
 | | |
