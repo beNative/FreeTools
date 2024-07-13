@@ -151,3 +151,8 @@ Most of the applications are for the Windows platform, but for many you can find
 [Rufus](https://rufus.ie/)|A utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. 
 [PowerToys](https://github.com/microsoft/PowerToys)|Windows system utilities to maximize productivity.
 [Ultimate Windows Tweaker](https://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10)|Ultimate Windows Tweaker makes it easier to change Windows settings.
+
+## AI tools
+| | |
+|-|-|
+[LM Studio](https://lmstudio.ai/)|Discover, download, and run local LLMs.
