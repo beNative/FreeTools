@@ -159,3 +159,14 @@ Most of the applications are for the Windows platform, but for many you can find
 |-|-|
 [LM Studio](https://lmstudio.ai/)|Discover, download, and run local LLMs.
 [Ollama](https://ollama.com/)|Run Llama 3, Phi 3, Mistral, Gemma 2, and other models. Customize and create your own. 
+
+## Online tools
+| | |
+|-|-|
+[KREA](https://www.krea.ai/home)|Flux based image/video generator.
+[Runway](https://runwayml.com/)|Video generator.
+[KLING AI](https://klingai.com/)|Video generator.
+[Fragments](https://fragments.e2b.dev)|Code generator.
+
+
+
