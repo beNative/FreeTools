@@ -159,7 +159,7 @@ Most of the applications are for the Windows platform, but for many you can find
 |-|-|
 [LM Studio](https://lmstudio.ai/)|Discover, download, and run local LLMs.
 [Ollama](https://ollama.com/)|Run Llama 3, Phi 3, Mistral, Gemma 2, and other models. Customize and create your own. 
-[DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve)|
+[DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve)|Video editing tool.
 
 ## Online tools
 | | |
