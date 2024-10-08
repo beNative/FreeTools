@@ -166,7 +166,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [KREA](https://www.krea.ai/home)|Flux based image/video generator.
 [Runway](https://runwayml.com/)|Video generator.
 [KLING AI](https://klingai.com/)|Video generator.
-[Fragments](https://fragments.e2b.dev)|Code generator.
+[Fragments](https://fragments.e2b.dev)|Open source AI powered code generator.
 
 
 
