@@ -66,6 +66,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [SnippetSource](https://github.com/beNative/SnippetSource)|SnippetSource lets you organise your favorite pieces of code, scripts, thoughts, notes or other documents in a user definable tree structure. 
 [QElectroTech](https://qelectrotech.org/index.html)|QElectroTech is a free software to create electric diagrams.
 [Xournal++](https://github.com/xournalpp/xournalpp/releases)|Create handwritten notes and edit PDF files. 
+[Freeplane](https://sourceforge.net/projects/freeplane/)|Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 
 ## Emulators and simulators
 | | |
