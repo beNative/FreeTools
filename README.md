@@ -167,6 +167,6 @@ Most of the applications are for the Windows platform, but for many you can find
 [Runway](https://runwayml.com/)|Video generator.
 [KLING AI](https://klingai.com/)|Video generator.
 [Fragments](https://fragments.e2b.dev)|Open source AI powered code generator.
-
+[VEED](https://www.veed.io)|Video generator/editing tool.
 
 
