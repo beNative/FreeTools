@@ -67,7 +67,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [QElectroTech](https://qelectrotech.org/index.html)|QElectroTech is a free software to create electric diagrams.
 [Xournal++](https://github.com/xournalpp/xournalpp/releases)|Create handwritten notes and edit PDF files. 
 [Freeplane](https://sourceforge.net/projects/freeplane/)|Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
-[MarkText](https://github.com/marktext)A simple and elegant open-source markdown editor that focused on speed and usability.
+[MarkText](https://github.com/marktext)|A simple and elegant open-source markdown editor that focused on speed and usability.
 
 ## Emulators and simulators
 | | |
