@@ -171,6 +171,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Codex](https://github.com/openai/codex)|Codex CLI is a coding agent from OpenAI that runs locally on your computer.
 [Claude Code](https://github.com/anthropics/claude-code)|Claude Code is an agentic coding tool that lives in your terminal.
 [Cline](https://github.com/cline/cline)|An AI assistant that can use your CLI aNd Editor.
+[Continue](https://github.com/continuedev/continue)|Build and run custom agents across your IDE, terminal, and CI.
 
 ## Online tools
 | | |
