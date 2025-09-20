@@ -64,7 +64,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [uv](https://github.com/astral-sh/uv)|An extremely fast Python package and project manager, written in Rust.
 [npm](https://github.com/npm/cli)|A JavaScript package manager.
 [Node.js](https://github.com/nodejs/node)|An open-source, cross-platform JavaScript runtime environment.
-[Chocolatey](https://github.com/chocolatey/choco)|Like yum or apt-get, but for Windows.
+[Chocolatey](https://github.com/chocolatey/choco)|A package manager for Windows.
 
 ## Diagnostic tools
 | | |
