@@ -3,6 +3,28 @@ A collection of links to **free** and **open source** applications maintained fo
 
 Most of the applications are for the Windows platform, but for many you can find builds for other platforms too.
 
+## AI tools
+| | |
+|-|-|
+[LM Studio](https://lmstudio.ai/)|Discover, download, and run local LLMs.
+[Ollama](https://ollama.com/)|Run Llama 3, Phi 3, Mistral, Gemma 2, and other models. Customize and create your own. 
+
+## AI driven development
+| | |
+|-|-|
+[Spec Kit](https://github.com/github/spec-kit)|An effort to allow organizations to focus on product scenarios rather than writing undifferentiated code with the help of Spec-Driven Development.
+[Gemini CLI](https://github.com/google-gemini/gemini-cli)|An open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model.
+[Codex](https://github.com/openai/codex)|Codex CLI is a coding agent from OpenAI that runs locally on your computer.
+[Claude Code](https://github.com/anthropics/claude-code)|Claude Code is an agentic coding tool that lives in your terminal.
+[Qwen Code](https://github.com/QwenLM/qwen-code)|Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI, specifically optimized for Qwen3-Coder models. 
+[Cline](https://github.com/cline/cline)|An AI assistant that can use your CLI aNd Editor.
+[Continue](https://github.com/continuedev/continue)|Build and run custom agents across your IDE, terminal, and CI.
+
+## AI models
+| | |
+|-|-|
+[Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)|A powerful open source agentic code model.
+
 ## Audio and MIDI
 | | |
 |-|-|
@@ -156,28 +178,6 @@ Most of the applications are for the Windows platform, but for many you can find
 [PowerToys](https://github.com/microsoft/PowerToys)|Windows system utilities to maximize productivity.
 [Ultimate Windows Tweaker](https://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10)|Ultimate Windows Tweaker makes it easier to change Windows settings.
 [Warp](https://app.warp.dev/get_warp)|An intelligent terminal application.
-
-## AI tools
-| | |
-|-|-|
-[LM Studio](https://lmstudio.ai/)|Discover, download, and run local LLMs.
-[Ollama](https://ollama.com/)|Run Llama 3, Phi 3, Mistral, Gemma 2, and other models. Customize and create your own. 
-
-## AI driven development
-| | |
-|-|-|
-[Spec Kit](https://github.com/github/spec-kit)|An effort to allow organizations to focus on product scenarios rather than writing undifferentiated code with the help of Spec-Driven Development.
-[Gemini CLI](https://github.com/google-gemini/gemini-cli)|An open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model.
-[Codex](https://github.com/openai/codex)|Codex CLI is a coding agent from OpenAI that runs locally on your computer.
-[Claude Code](https://github.com/anthropics/claude-code)|Claude Code is an agentic coding tool that lives in your terminal.
-[Qwen Code](https://github.com/QwenLM/qwen-code)|Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI, specifically optimized for Qwen3-Coder models. 
-[Cline](https://github.com/cline/cline)|An AI assistant that can use your CLI aNd Editor.
-[Continue](https://github.com/continuedev/continue)|Build and run custom agents across your IDE, terminal, and CI.
-
-## AI models
-| | |
-|-|-|
-[Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)|A powerful open source agentic code model.
 
 ## Online tools
 | | |
