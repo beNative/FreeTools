@@ -174,6 +174,11 @@ Most of the applications are for the Windows platform, but for many you can find
 [Cline](https://github.com/cline/cline)|An AI assistant that can use your CLI aNd Editor.
 [Continue](https://github.com/continuedev/continue)|Build and run custom agents across your IDE, terminal, and CI.
 
+## AI models
+| | |
+|-|-|
+[Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)|A powerful open source agentic code model.
+
 ## Online tools
 | | |
 |-|-|
