@@ -24,6 +24,7 @@ Most of the applications are for the Windows platform, but for many you can find
 | | |
 |-|-|
 [Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)|A powerful open source agentic code model.
+[gpt-oss](https://github.com/openai/gpt-oss)|OpenAI's open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases.
 
 ## Audio and MIDI
 | | |
