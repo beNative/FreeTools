@@ -19,6 +19,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Qwen Code](https://github.com/QwenLM/qwen-code)|Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI, specifically optimized for Qwen3-Coder models. 
 [Cline](https://github.com/cline/cline)|An AI assistant that can use your CLI aNd Editor.
 [Continue](https://github.com/continuedev/continue)|Build and run custom agents across your IDE, terminal, and CI.
+[OpenHands](https://github.com/All-Hands-AI/OpenHands)|A platform for software development agents powered by AI.
 
 ## AI models
 | | |
