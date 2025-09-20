@@ -68,6 +68,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Xournal++](https://github.com/xournalpp/xournalpp/releases)|Create handwritten notes and edit PDF files. 
 [Freeplane](https://sourceforge.net/projects/freeplane/)|Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 [MarkText](https://github.com/marktext)|A simple and elegant open-source markdown editor that focused on speed and usability.
+[DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve)|Video editing tool.
 
 ## Emulators and simulators
 | | |
@@ -161,7 +162,11 @@ Most of the applications are for the Windows platform, but for many you can find
 |-|-|
 [LM Studio](https://lmstudio.ai/)|Discover, download, and run local LLMs.
 [Ollama](https://ollama.com/)|Run Llama 3, Phi 3, Mistral, Gemma 2, and other models. Customize and create your own. 
-[DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve)|Video editing tool.
+
+## AI driven development
+| | |
+|-|-|
+[Spec Kit](https://github.com/github/spec-kit)|An effort to allow organizations to focus on product scenarios rather than writing undifferentiated code with the help of Spec-Driven Development.
 
 ## Online tools
 | | |
