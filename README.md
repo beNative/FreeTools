@@ -58,6 +58,13 @@ Most of the applications are for the Windows platform, but for many you can find
 [Thonny](https://thonny.org/)|Python IDE for beginners
 [LogViewer](https://github.com/beNative/LogViewer)|A multi-purpose logviewer.
 
+## Package/project managers
+| | |
+|-|-|
+[uv](https://github.com/astral-sh/uv)|An extremely fast Python package and project manager, written in Rust.
+[npm](https://github.com/npm/cli)|A JavaScript package manager.
+
+
 ## Diagnostic tools
 | | |
 |-|-|
