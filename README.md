@@ -170,6 +170,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Gemini CLI](https://github.com/google-gemini/gemini-cli)|An open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model.
 [Codex](https://github.com/openai/codex)|Codex CLI is a coding agent from OpenAI that runs locally on your computer.
 [Claude Code](https://github.com/anthropics/claude-code)|Claude Code is an agentic coding tool that lives in your terminal.
+[Qwen Code](https://github.com/QwenLM/qwen-code)|Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI, specifically optimized for Qwen3-Coder models. 
 [Cline](https://github.com/cline/cline)|An AI assistant that can use your CLI aNd Editor.
 [Continue](https://github.com/continuedev/continue)|Build and run custom agents across your IDE, terminal, and CI.
 
