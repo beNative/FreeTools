@@ -167,6 +167,9 @@ Most of the applications are for the Windows platform, but for many you can find
 | | |
 |-|-|
 [Spec Kit](https://github.com/github/spec-kit)|An effort to allow organizations to focus on product scenarios rather than writing undifferentiated code with the help of Spec-Driven Development.
+[Gemini CLI](https://github.com/google-gemini/gemini-cli)|An open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model.
+[Codex](https://github.com/openai/codex)|Codex CLI is a coding agent from OpenAI that runs locally on your computer.
+[Cline](https://github.com/cline/cline)|An AI assistant that can use your CLI aNd Editor.
 
 ## Online tools
 | | |
