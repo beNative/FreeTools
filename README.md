@@ -108,7 +108,7 @@ Most of the applications are for the Windows platform, but for many you can find
 | | |
 |-|-|
 [WinUAE](http://www.winuae.net/)|Amiga emulator.
-[VICE](http://vice-emu.sourceforge.net/)|The VersatIle Commodore Emulator.
+[VICE](http://vice-emu.sourceforge.net/)|The Versatile Commodore Emulator.
 [blueMSX](http://www.bluemsx.com/)|Emulator for the MSX platform.
 [fMSX](https://fms.komkon.org/fMSX/)|Portable MSX emulator.
 [Speccy](https://fms.komkon.org/Speccy/)|Portable Spectrum emulator.
