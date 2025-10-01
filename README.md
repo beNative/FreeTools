@@ -133,7 +133,7 @@ Most of the applications are for the Windows platform, but for many you can find
 |-|-|
 [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly.
 [ReNamer](http://www.den4b.com/news/2416/renamer-6-9)|A powerful and flexible file renaming tool.
-[Rename Master](http://www.joejoesoft.com/vcms/108/)|A freeware utility designed to rename multiple files with a just few clicks.
+[Rename Master](http://www.joejoesoft.com/vcms/108/)|A freeware utility designed to rename multiple files with just a few clicks.
 [grepWin](https://tools.stefankueng.com/grepWin.html)|A simple search and replace tool which can use regular expressions to do its job.
 [Double Commander](https://doublecmd.sourceforge.io/)|A free cross platform open source file manager with two panels side by side.
 [Junction Link Magic](http://www.rekenwonder.com/linkmagic.htm)|Junction Link Magic lets you create and manage NTFS junction points in a fast and easy way.
