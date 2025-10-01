@@ -19,7 +19,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Qwen Code](https://github.com/QwenLM/qwen-code)|Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI, specifically optimized for Qwen3-Coder models. 
 [Cline](https://github.com/cline/cline)|An AI assistant that can use your CLI aNd Editor.
 [Roo Code](https://github.com/RooCodeInc/Roo-Code)|Roo Code is an AI-powered autonomous coding agent that lives in your editor.
-[Kilo Code](https://github.com/Kilo-Org/kilocode)|Open-source VS Code AI agent based on Cline. The project frequently merge features from open-source projects, such as Roo Code and Cline.
+[Kilo Code](https://github.com/Kilo-Org/kilocode)|Open-source VS Code AI agent based on Cline. The project frequently merges features from open-source projects, such as Roo Code and Cline.
 [Continue](https://github.com/continuedev/continue)|Build and run custom agents across your IDE, terminal, and CI.
 [OpenHands](https://github.com/All-Hands-AI/OpenHands)|A platform for software development agents powered by AI.
 
