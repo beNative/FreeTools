@@ -168,6 +168,7 @@ Most of the applications are for the Windows platform, but for many you can find
 [Subtle](http://github.com/tvdburgt/subtle)|Desktop client for opensubtitles API.
 [ImageMagick](http://imagemagick.org/)|Use ImageMagick to create, edit, compose, or convert bitmap images.
 [Upscayl](http://github.com/upscayl)|Upscayl lets you upscale your low resolution images using advanced AI Models.
+[ShareX](https://github.com/ShareX/ShareX)|Screen capture, file sharing and productivity tool.
 
 ## Media players
 | | |
